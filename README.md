@@ -2,3 +2,4 @@
 aula de Devos 12/02/20 <br>
 Aula Devops <br>
 Nem <br>
+cmd
